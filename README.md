@@ -1,2 +1,2 @@
 # veryfirstlyrics
-lyricsaop
+lyrics api list
