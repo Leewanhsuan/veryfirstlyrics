@@ -1,0 +1,8 @@
+.lyrics-box {
+    border: 1px solid #dadada;
+}
+
+li {
+    border: 1px solid rgb(228, 228, 228);
+    flex-wrap: wrap;
+}
